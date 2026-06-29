@@ -1,0 +1,81 @@
+{
+  "total": 8468,
+  "failed": 5,
+  "failures": [
+    {
+      "meshIdx": 7719,
+      "primIdx": 0,
+      "bufferView": 7719,
+      "byteOffset": 34790448,
+      "byteLength": 12,
+      "error": "Failed to decode geometry data.",
+      "nodes": [
+        {
+          "idx": 189271,
+          "name": "Material renderizado 255-0-0"
+        }
+      ],
+      "meshName": "Material renderizado 255-0-0"
+    },
+    {
+      "meshIdx": 7720,
+      "primIdx": 0,
+      "bufferView": 7720,
+      "byteOffset": 34790460,
+      "byteLength": 12,
+      "error": "Failed to decode geometry data.",
+      "nodes": [
+        {
+          "idx": 189277,
+          "name": "Material renderizado 255-0-0"
+        }
+      ],
+      "meshName": "Material renderizado 255-0-0"
+    },
+    {
+      "meshIdx": 7721,
+      "primIdx": 0,
+      "bufferView": 7721,
+      "byteOffset": 34790472,
+      "byteLength": 12,
+      "error": "Failed to decode geometry data.",
+      "nodes": [
+        {
+          "idx": 189283,
+          "name": "Material renderizado 255-0-0"
+        }
+      ],
+      "meshName": "Material renderizado 255-0-0"
+    },
+    {
+      "meshIdx": 7722,
+      "primIdx": 0,
+      "bufferView": 7722,
+      "byteOffset": 34790484,
+      "byteLength": 12,
+      "error": "Failed to decode geometry data.",
+      "nodes": [
+        {
+          "idx": 189289,
+          "name": "Material renderizado 255-0-0"
+        }
+      ],
+      "meshName": "Material renderizado 255-0-0"
+    },
+    {
+      "meshIdx": 7724,
+      "primIdx": 0,
+      "bufferView": 7724,
+      "byteOffset": 34790668,
+      "byteLength": 12,
+      "error": "Failed to decode geometry data.",
+      "nodes": [
+        {
+          "idx": 189558,
+          "name": "Material renderizado 255-0-0"
+        }
+      ],
+      "meshName": "Material renderizado 255-0-0"
+    }
+  ]
+}

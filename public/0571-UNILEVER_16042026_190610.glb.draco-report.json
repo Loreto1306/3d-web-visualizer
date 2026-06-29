@@ -1,0 +1,51 @@
+{
+  "total": 1501,
+  "failed": 3,
+  "failures": [
+    {
+      "meshIdx": 1332,
+      "primIdx": 0,
+      "bufferView": 1332,
+      "byteOffset": 1814336,
+      "byteLength": 12,
+      "error": "Failed to decode geometry data.",
+      "nodes": [
+        {
+          "idx": 156276,
+          "name": "Material renderizado 255-0-0"
+        }
+      ],
+      "meshName": "Material renderizado 255-0-0"
+    },
+    {
+      "meshIdx": 1333,
+      "primIdx": 0,
+      "bufferView": 1333,
+      "byteOffset": 1814348,
+      "byteLength": 12,
+      "error": "Failed to decode geometry data.",
+      "nodes": [
+        {
+          "idx": 156282,
+          "name": "Material renderizado 255-0-0"
+        }
+      ],
+      "meshName": "Material renderizado 255-0-0"
+    },
+    {
+      "meshIdx": 1335,
+      "primIdx": 0,
+      "bufferView": 1335,
+      "byteOffset": 1814532,
+      "byteLength": 12,
+      "error": "Failed to decode geometry data.",
+      "nodes": [
+        {
+          "idx": 156545,
+          "name": "Material renderizado 255-0-0"
+        }
+      ],
+      "meshName": "Material renderizado 255-0-0"
+    }
+  ]
+}
